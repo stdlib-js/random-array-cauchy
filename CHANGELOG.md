@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-28)
+## Unreleased (2026-07-22)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`2dbb3ae`](https://github.com/stdlib-js/stdlib/commit/2dbb3ae01a5343eeb2a8a9a394cd28e0dd4e6c6c) - **docs:** update related packages sections [(#13605)](https://github.com/stdlib-js/stdlib/pull/13605) _(by stdlib-bot)_
 -   [`58b187e`](https://github.com/stdlib-js/stdlib/commit/58b187ec024dd077805a2b07d8c86c67b7804f37) - **docs:** fix `assign` examples in `random/array` TypeScript declarations [(#12738)](https://github.com/stdlib-js/stdlib/pull/12738) _(by Philipp Burckhardt)_
 -   [`c0ca8d9`](https://github.com/stdlib-js/stdlib/commit/c0ca8d9df8f891d7004c17fd671c411f2241d1db) - **bench:** refactor to use string interpolation in `@stdlib/random-array` [(#11415)](https://github.com/stdlib-js/stdlib/pull/11415) _(by Karan Anand)_
 
